@@ -1,5 +1,5 @@
 {
-  "name": "phpunit/phpunit-tideways-listener",
+  "name": "barroca/phpunit-tideways-listener",
   "description": "TestListener for PHPUnit that can dump profile information",
   "license": "BSD-3-Clause",
   "authors": [
