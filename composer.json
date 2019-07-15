@@ -13,9 +13,9 @@
     "issues": "https://github.com/sebastianbergmann/phpunit-tideways-listener/issues"
   },
   "require": {
-    "php": "^7.1",
-    "ext-tideways_xhprof": "*",
-    "phpunit/phpunit": "^6"
+    "php": "^7.2",
+    "tideways_xhprof": "*",
+    "phpunit/phpunit": "^5"
   },
   "autoload": {
     "classmap": [
